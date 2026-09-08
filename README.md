@@ -22,7 +22,8 @@ This project analyzes transactional and menu datasets to identify top-performing
 - `RestaurantPerformanceDash.pbix` – Power BI dashboard file
 
 ## 📈 Dashboard Preview
-*(Screenshot ah inga add pannalam — sollunga eppadi nu sollren)*
+![Restaurant Dashboard](RestaurantDashboard.png])
+
 
 ## 👤 Author
 Maadesh C
